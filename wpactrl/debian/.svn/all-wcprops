@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/383/python-wpactrl/trunk/debian
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/303/python-wpactrl/trunk/debian/control
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/304/python-wpactrl/trunk/debian/compat
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/383/python-wpactrl/trunk/debian/changelog
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/303/python-wpactrl/trunk/debian/copyright
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/303/python-wpactrl/trunk/debian/rules
+END
+examples
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/218/python-wpactrl/trunk/debian/examples
+END

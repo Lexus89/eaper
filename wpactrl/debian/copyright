@@ -1,0 +1,24 @@
+Upstream-Name: python-wpactrl
+Upstream-Maintainer: Kel Modderman <kel@otaku42.de>
+Upstream-Source: http://projects.otaku42.de/wiki/PythonWpaCtrl
+
+Files: *
+Copyright: Copright (c) 2008 Kel Modderman <kel@otaku42.de>
+License: GPL-2
+
+Files: wpactrl.c
+Copyright: Copright (c) 2008 Kel Modderman <kel@otaku42.de>
+Copyright: Copright (c) 2006 Jeremy Moles <jeremy@emperorlinux.com>
+License: GPL-2
+
+Files: wpa_ctrl.*
+Copyright: Copright (c) 2004-2007, Jouni Malinen <j@w1.fi>
+License: GPL-2 | BSD
+
+License: GPL-2
+ On Debian GNU/Linux systems, the complete text of the GNU General Public
+ License version 2 can be found in `/usr/share/common-licenses/GPL-2'.
+
+License: BSD
+ On Debian GNU/Linux systems, the complete text of the BSD License can be
+ found in `/usr/share/common-licenses/BSD'.
